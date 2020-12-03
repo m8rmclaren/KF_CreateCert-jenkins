@@ -1,0 +1,16 @@
+{
+    "URL": {
+        "EnrollURL": "<enroll PFX certificate endpoint URL>",
+        "DeployURL": "<deploy certificate endpoint URL>"
+    },
+    "Auth": {
+        "APIKey": "<keyfactor application key>",
+        "APIAuthorization": "Basic <base64 username/password>"
+    },
+    "Misc": {
+        "AgentID": "<keyfactor orchestrator agent ID>",
+        "CertificateAuthority": "<certificate authority name>",
+        "CertificateTemplate": "<certificate template short name>",
+        "ClientName": "<orchestrator client ID>"
+    }
+}
